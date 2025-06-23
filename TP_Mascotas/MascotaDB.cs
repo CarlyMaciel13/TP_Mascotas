@@ -9,10 +9,8 @@ using System.Threading.Tasks;
 // Definición del espacio de nombres del proyecto
 namespace TP_Mascotas
 {
-    // Vuelve a importar algunos namespaces dentro del scope del namespace (innecesario si ya están arriba, pero no genera error)
-    using System;
-    using System.Collections.Generic;
-    using System.Data.SqlClient;
+    
+
 
     // Clase encargada de interactuar con la base de datos de mascotas
     public class MascotaBD
