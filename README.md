@@ -1,4 +1,4 @@
-# 🐾 Query SQL para crear la tabla `Mascota` en SQL Server🐾 
+# 🐾 Query SQL para crear la tabla `Mascota` en SQL Server _TP:🐾 
 <p align="center">
   <img src="https://mypu.es/wp-content/uploads/2019/07/perros-y-gato-2.png" alt="Imagen decorativa de mascota" width="300"/>
 </p>
